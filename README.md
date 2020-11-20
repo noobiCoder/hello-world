@@ -1,4 +1,4 @@
 # hello-world
 Learning GitHub
 
-readme
+I'm self learning to code. 
